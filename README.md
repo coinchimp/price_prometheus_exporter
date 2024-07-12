@@ -1,5 +1,6 @@
 
 # Kaspa price rometheus exporter
+Note: special request from my friend Dave
 
 ## Install app
 
